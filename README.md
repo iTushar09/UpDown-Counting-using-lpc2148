@@ -1,4 +1,4 @@
-Up/Down Counter using LPC2148
+# Up/Down Counter using LPC2148
 🖥️ Overview:
 This project demonstrates an Up/Down counter using the LPC2148 ARM7 microcontroller and 8 LEDs. The counter value is visually represented in binary form via the LEDs, allowing real-time observation of the counting process.
 
