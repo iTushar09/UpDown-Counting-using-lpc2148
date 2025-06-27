@@ -8,6 +8,8 @@ This project demonstrates an Up/Down counter using the LPC2148 ARM7 microcontrol
 - 8 Yellow LEDs
 
 - Power Supply (VBAT)
+  
+- Keil uVision
 
 - Proteus 8 Professional for simulation
 
