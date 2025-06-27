@@ -9,9 +9,9 @@ This project demonstrates an Up/Down counter using the LPC2148 ARM7 microcontrol
 
 - Power Supply (VBAT)
   
-- Keil uVision
+- Keil uVision – For writing and compiling embedded C code.
 
-- Proteus 8 Professional for simulation
+- Proteus 8 Professional – for simulation
 
 🔌 Working:
 - LEDs are connected to GPIO pins (Port 0, Pins P0.16–P0.23).
